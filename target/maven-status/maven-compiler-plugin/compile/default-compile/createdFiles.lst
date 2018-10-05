@@ -1,0 +1,6 @@
+com\realdolmen\examen\examenprogrammeren2\domain\Movie.class
+com\realdolmen\examen\examenprogrammeren2\facade\MovieFacade.class
+com\realdolmen\examen\examenprogrammeren2\exceptions\NoQueryPossibleException.class
+com\realdolmen\examen\examenprogrammeren2\services\MovieService.class
+com\realdolmen\examen\examenprogrammeren2\repositories\MovieRepository.class
+com\realdolmen\examen\examenprogrammeren2\services\QueryHelper.class

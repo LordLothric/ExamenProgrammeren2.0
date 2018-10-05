@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movies
+    xmlns="https://www.realdolmen.com/examen"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://www.realdolmen.com/Evalue Movies.xsd">
+    <movie>
+        <id>1</id>
+        <title>The sixth senserino</title>
+        <genre>Thriller</genre>
+    </movie>
+    <movie>
+        <id>2</id>
+        <title>The fact that I'm trying my best sense</title>
+        <genre>Life Story</genre>
+    </movie>
+    <movie>
+        <id>42</id>
+        <title>Pompompom</title>
+        <genre>The Pom Returns</genre>
+    </movie>
+</movies>
